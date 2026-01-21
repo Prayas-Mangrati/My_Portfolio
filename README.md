@@ -31,7 +31,7 @@ Each project contains:
 
 ## Live Portfolio
 
-🔗Live Website: [my-portfolio-6503lt8rv-prayas-mangratis-projects.vercel.app](my-portfolio-6503lt8rv-prayas-mangratis-projects.vercel.app)
+🔗Live Website: [https://my-portfolio-6503lt8rv-prayas-mangratis-projects.vercel.app](https://my-portfolio-6503lt8rv-prayas-mangratis-projects.vercel.app)
 
 ## Contact
 
