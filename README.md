@@ -31,11 +31,12 @@ Each project contains:
 
 ## Live Portfolio
 
-🔗 **Live Website:** *(add your Vercel link here after deployment)*
+🔗 **Live Website:** my-portfolio-6503lt8rv-prayas-mangratis-projects.vercel.app
 
 ## Contact
 
-- GitHub: https://github.com/Prayas-Mangrati  
-- LinkedIn: https://www.linkedin.com/in/prayas-mangrati  
+- LinkedIn: https://www.linkedin.com/in/prayas-mangrati
+- Email: prayasmangrati4515@gmail.com
+  
 
 Thank you for taking the time to view my portfolio.
