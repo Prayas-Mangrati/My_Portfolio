@@ -179,6 +179,20 @@ export default function Home() {
                 github="https://github.com/Prayas-Mangrati/Campus-Connect.git"
                 live="https://campus-connect-frontend-byzd.onrender.com"
               />
+
+              <ProjectCard
+                title="VoiceNav+"
+                description="A voice-driven Chrome extension that enables hands-free browser navigation and AI-assisted browsing using speech recognition and text-to-speech."
+                tech={[
+                  "JavaScript",
+                  "Chrome Extensions API",
+                  "Web Speech API",
+                  "Node.js",
+                  "Express",
+                  "Groq LLM"
+                ]}
+                github="https://github.com/Prayas-Mangrati/Voice-Nav-Extension"
+              />
             </div>
 
             <div className="absolute bottom-0 left-1/2 -translate-x-1/2
