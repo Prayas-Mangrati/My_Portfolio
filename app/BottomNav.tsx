@@ -1,6 +1,6 @@
 "use client";
 
-import { Home, User, Briefcase, Mail } from "lucide-react";
+import { Home, User, Briefcase, Mail, Code } from "lucide-react";
 import { useEffect, useState } from "react";
 import { usePathname } from "next/navigation";
 
@@ -8,6 +8,7 @@ import { usePathname } from "next/navigation";
 const sections = [
   { id: "home", label: "Home", icon: Home },
   { id: "about", label: "About", icon: User },
+  { id: "tech", label: "TechStack", icon: Code },
   { id: "projects", label: "Projects", icon: Briefcase },
   { id: "contact", label: "Contact", icon: Mail },
 ];
@@ -15,8 +16,6 @@ const sections = [
 
 export default function BottomNav() {
   const pathname = usePathname();
-
-if (pathname === "/resume") return null;
 
   const [active, setActive] = useState("home");
 
@@ -39,6 +38,8 @@ if (pathname === "/resume") return null;
 
     return () => observer.disconnect();
   }, []);
+
+  if (pathname === "/resume") return null;
   
 
   return (
