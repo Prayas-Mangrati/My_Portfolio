@@ -207,7 +207,7 @@ export default function Home() {
         <AnimatedSection>
           <section
             id="tech"
-            className="relative min-h-screen flex flex-col items-center justify-center gap-10 px-6 text-center"
+            className="relative min-h-screen scroll-mt-12 flex flex-col items-center justify-start gap-10 px-6 pt-12 text-center"
           >
             <div className="absolute inset-0 -z-10 bg-gradient-to-b from-transparent via-white/5 to-transparent" />
 
